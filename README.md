@@ -16,10 +16,12 @@ A estrutura de arquivos do projeto é a seguinte:
 projeto-cordel/
 │
 ├── index.html
-├── css/
+├── estilo/
 │   └── style.css
 └── imagens/
-    └── milton-duarte.jpg
+    └── background001.jpg
+    └── background002.jpg
+├── cordel-moderno.txt
 ```
 
 - **index.html**: Contém a estrutura principal da página web, incluindo o texto do cordel e os elementos HTML necessários.
