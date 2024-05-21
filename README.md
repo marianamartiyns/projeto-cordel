@@ -18,10 +18,10 @@ projeto-cordel/
 ├── index.html
 ├── estilo/
 │   └── style.css
+├── cordel-moderno.txt
 └── imagens/
     └── background001.jpg
     └── background002.jpg
-├── cordel-moderno.txt
 ```
 
 - **index.html**: Contém a estrutura principal da página web, incluindo o texto do cordel e os elementos HTML necessários.
